@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_renderer">
+    <sys_aw_renderer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <custom_renderer display_value="sn-knowledge-discussion-wrapper">72799ecde4d1ac5180318bc017e3d71f</custom_renderer>
+        <custom_renderer_tag>sn-knowledge-discussion-wrapper</custom_renderer_tag>
+        <macroponent/>
+        <module_flag>false</module_flag>
+        <renderer_type/>
+        <sys_class_name>sys_aw_renderer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-28 18:48:05</sys_created_on>
+        <sys_id>84f6e676db2200106412e1bb4b96191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="vstest" source="x_8511_vstest">f2a66632db2200106412e1bb4b961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vstest">f2a66632db2200106412e1bb4b961949</sys_scope>
+        <sys_update_name>sys_aw_renderer_84f6e676db2200106412e1bb4b96191e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-28 18:48:05</sys_updated_on>
+        <table>sn_communities_blog</table>
+        <type_ext display_value="record">56a1aaa10f513300bb57f4a1ff767ede</type_ext>
+        <workspace_config display_value="vstest">dfe6eaf2db2200106412e1bb4b96197e</workspace_config>
+        <workspace_module/>
+    </sys_aw_renderer>
+</record_update>

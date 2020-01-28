@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>dfe6eaf2db2200106412e1bb4b96197e</admin_panel>
+        <admin_panel_table>sys_aw_master_config</admin_panel_table>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <path>workspace/vstest</path>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-28 18:48:02</sys_created_on>
+        <sys_id>d7e6eaf2db2200106412e1bb4b96197f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>vstest</sys_name>
+        <sys_package display_value="vstest" source="x_8511_vstest">f2a66632db2200106412e1bb4b961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vstest">f2a66632db2200106412e1bb4b961949</sys_scope>
+        <sys_update_name>sys_ux_page_registry_d7e6eaf2db2200106412e1bb4b96197f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-28 18:48:02</sys_updated_on>
+        <title>vstest</title>
+    </sys_ux_page_registry>
+</record_update>
